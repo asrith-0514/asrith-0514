@@ -25,11 +25,13 @@ I enjoy identifying real-world problems, exploring innovative solutions, and bui
 ### 🚀 Projects & Product Building
 
 **1. ARK Connect**
+https://github.com/asrith-0514/ark-connect
 - Retailer ordering and order-management platform.
 - Focused on simplifying wholesale ordering and business workflows.
 - Building a digital ordering experience for an existing distribution business.
 
 **2. ARK Accounts Hub**
+https://github.com/asrith-0514/ark-accounts-hub
 - Accounts payable and supplier payment management application.
 - Manages supplier bills, partial payments, outstanding dues and payment history.
 - Designed around practical accounting workflows.
